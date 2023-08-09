@@ -1,0 +1,9 @@
+repository
+gitcommands:
+git config --global user.name "tharana-k"
+git config --global user.email "tharanak22@gmail.com"
+git init
+git add .
+git remote add origin "https://github.com/tharana-k/react-project.git"
+git commit -m "text/label"
+git push -u origin master
